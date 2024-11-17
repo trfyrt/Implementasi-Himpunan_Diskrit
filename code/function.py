@@ -58,7 +58,7 @@ class Himpunan:
         return Himpunan([elem for elem in self.elements if elem not in other.elements] +
                         [elem for elem in other.elements if elem not in self.elements])  # Menghasilkan himpunan selisih simetris antara dua himpunan
 
-    # Cartesian product of two sets (^)
+    # Cartesian product of two sets (**)
     def __pow__(self, other):
         return Himpunan([(x, y) for x in self.elements for y in other.elements])  # Menghasilkan produk kartesius antara dua himpunan
 
