@@ -14,7 +14,7 @@ Projek ini bertujuan untuk mengimplementasikan konsep-konsep dasar himpunan dala
 - **Irisan (Intersect)** : Menggunakan operator `/` untuk menghitung irisan antara dua himpunan.
 - **Gabungan (Union)** : Menggunakan operator `+` untuk menghitung gabungan antara dua himpunan.
 - **Selisih (Difference)** : Menggunakan operator `-` untuk menghitung selisih antara dua himpunan.
-- **Komplemen (Complement)** : Nama method `complement()`  untuk menghitung komplemen dari suatu himpunan dengan input himpunan Semester.
+- **Komplemen (Complement)** : Nama method `complement()`  untuk menghitung komplemen dari suatu himpunan dengan input himpunan Semesta.
 - **Selisih Simetris (Symmetric Difference)** : Menggunakan operator `*` untuk menghitung selisih simetris antara dua himpunan.
 - **Cartesian product** : Menggunakan operator `**` untuk menghitung hasil cartesian product dari dua himpunan
 - **Himpunan Kuasa (Power Set)** : Menggunakan `abs()` untuk menghitung himpunan kuasa (semua subset dari himpunan).
